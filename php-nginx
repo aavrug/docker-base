@@ -1,6 +1,6 @@
-FROM richarvey/nginx-php-fpm
+FROM aavrug/nginx-php-fpm
 
-MAINTAINER Quintype Developers <dev-core@quintype.com>
+MAINTAINER Gaurav Kumar <aavrug@gmail.com>
 
 EXPOSE 3000
 
